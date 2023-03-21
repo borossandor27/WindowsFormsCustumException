@@ -79,7 +79,7 @@ namespace WindowsFormsCustumException
                 }
                 else
                 {
-                    throw new ArgumentException("Nem megfelelő irányt adott meg!");
+                    throw new HelytelenIrany($"A {value} nem felel meg egyik iránynak sem!");
                 };
             }
         }

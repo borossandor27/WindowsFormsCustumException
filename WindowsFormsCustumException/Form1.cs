@@ -25,7 +25,7 @@ namespace WindowsFormsCustumException
             try
             {
                 athaladasok.Add(new Athaladas(9, 2, 3, "be"));
-                athaladasok.Add(new Athaladas(3, 2, 3, "be"));
+                athaladasok.Add(new Athaladas(10, 2, 3, "bee"));
                 athaladasok.Add(new Athaladas(9, 2, 3, "be"));
                 athaladasok.Add(new Athaladas(9, 2, 3, "be"));
 
